@@ -1,0 +1,8 @@
+name: 4K Preferred
+trash_id: profile-4k-preferred
+upgrade_allowed: true
+cutoff: HDTV-2160p
+qualities:
+  - name: HDTV-2160p
+  - name: Bluray-1080p
+min_format_score: 0

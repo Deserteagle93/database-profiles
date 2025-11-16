@@ -1,0 +1,8 @@
+name: UHD 4K
+trash_id: cf-uhd-4k
+score: 200
+specifications:
+  - name: Resolution
+    implementation: ResolutionSpecification
+    args:
+      value: 2160

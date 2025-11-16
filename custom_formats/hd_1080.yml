@@ -1,0 +1,8 @@
+name: HD 1080p
+trash_id: cf-hd-1080
+score: 100
+specifications:
+  - name: Resolution
+    implementation: ResolutionSpecification
+    args:
+      value: 1080
